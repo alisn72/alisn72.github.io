@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6ab76fbb.chunk.css",
+    "main.js": "/static/js/main.4e448bf8.chunk.js",
+    "main.js.map": "/static/js/main.4e448bf8.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f539de1a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f539de1a.js.map",
+    "static/css/2.2e872fcd.chunk.css": "/static/css/2.2e872fcd.chunk.css",
+    "static/js/2.1aef488e.chunk.js": "/static/js/2.1aef488e.chunk.js",
+    "static/js/2.1aef488e.chunk.js.map": "/static/js/2.1aef488e.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.fe0ad81ba1ae39b960522f3f1ef5ca92.js": "/precache-manifest.fe0ad81ba1ae39b960522f3f1ef5ca92.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.2e872fcd.chunk.css.map": "/static/css/2.2e872fcd.chunk.css.map",
+    "static/css/main.6ab76fbb.chunk.css.map": "/static/css/main.6ab76fbb.chunk.css.map",
+    "static/js/2.1aef488e.chunk.js.LICENSE.txt": "/static/js/2.1aef488e.chunk.js.LICENSE.txt",
+    "static/media/login.css": "/static/media/IRANSansWeb.e8ef2035.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f539de1a.js",
+    "static/css/2.2e872fcd.chunk.css",
+    "static/js/2.1aef488e.chunk.js",
+    "static/css/main.6ab76fbb.chunk.css",
+    "static/js/main.4e448bf8.chunk.js"
+  ]
+}
