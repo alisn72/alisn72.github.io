@@ -1,0 +1,93 @@
+@import '../../sass/mixins';
+
+.header {
+    width: 100%;
+    height: var(--MOBILE_HEADER_HEIGHT);
+    position: sticky;
+    top: 0;
+    background-color: var(--general-main-1);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    border-bottom-width: 2px;
+    border-bottom-style: solid;
+    border-bottom-color: var(--general-section-1);
+
+    @include desktop {
+        height: var(--HEADER_HEIGHT);
+    }
+  
+    &-wrapper {
+        display: flex;
+        flex-direction: row;
+        width: var(--MAX_CONTAINER_WIDTH);
+        height: 100%;
+        align-items: center;
+        justify-content: space-between;
+        padding: 0 1rem;
+        
+        @include desktop {
+            padding: 0;
+        }
+    }
+
+    &-logo {
+        height: calc(var(--HEADER_HEIGHT) - 20px);
+        cursor: pointer;
+
+        @include desktop {
+            height: calc(var(--HEADER_HEIGHT) - 10px);
+        }
+    }
+
+    &-action-buttons {
+        display: flex;
+        flex-direction: row;
+    }
+
+    &-search-icon {
+        cursor: pointer;    
+        color: var(--text-general);
+        margin-right: 0.5rem;
+    }
+
+    &__search-box {
+        font-size: large;
+        padding: 0 0.5rem;
+        background-color: var(--general-section-3);
+        width: 100%;
+        height: calc(var(--MOBILE_HEADER_HEIGHT) * 0.7);
+        border-width: 1px;
+        border-style: solid;
+        border-color: var(--text-general);
+        border-radius: 4px;
+        color: var(--text-general);
+        ::placeholder {
+            color: var(--text-disabled);
+        }
+
+        @include desktop {
+            width: 60%;
+            max-width: 600px;
+            height: calc(var(--HEADER_HEIGHT) * 0.6);
+            margin-left: 10%;
+        }
+
+        &-wrapper {
+            display: flex;
+            flex: 1 1;
+            height: 100%;
+            align-items: center;
+            justify-content: flex-start;
+            padding: 0 1rem;
+        }
+    }
+}
+
+.theme-toggler {
+    cursor: pointer;
+
+    &-icon {
+        color: var(--text-general);
+    }
+}

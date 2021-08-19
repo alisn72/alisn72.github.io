@@ -1,0 +1,42 @@
+@import '../../sass/mixins';
+
+.watch-wrapper {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-top: 3rem;
+}
+
+.video-player {
+    width: 100%;
+    height: auto;
+
+    &-container {
+        position: relative;
+        padding-bottom: 70%; /* 4:3 */
+        width: 100%;
+        height: 100%;
+        
+        @include desktop {
+            max-width: 50%;
+            height: auto;
+            padding-bottom: 28%;
+        }
+        @include tablet {
+            max-width: 70%;
+            height: auto;
+            padding-bottom: 52%;
+        }
+
+        iframe {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+        }
+    }
+}

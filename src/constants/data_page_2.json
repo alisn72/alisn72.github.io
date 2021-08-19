@@ -1,0 +1,1543 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "0Epu4mJwc7TNb2QYoO_gKJivn3I",
+    "nextPageToken": "CFoQAA",
+    "prevPageToken": "CC0QAQ",
+    "regionCode": "FR",
+    "pageInfo": {
+        "totalResults": 8957,
+        "resultsPerPage": 45
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Eps6vR1H2sTJcgh3qG27sl_hDlQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "UJthzYsva1E"
+            },
+            "snippet": {
+                "publishedAt": "2021-05-26T11:15:48Z",
+                "channelId": "UCJIOFQLGwB3GH9K9waxwynQ",
+                "title": "Rainy Relaxing Jazz Music - Slow Ballad Jazz Music 24/7 for Work, Relax &amp; Study",
+                "description": "Listen this Rainy Jazz Music 24/7 Live stream perfect for start your mornings or boost your relaxing mood on the late night / evenings. Enjoy the music good ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/UJthzYsva1E/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/UJthzYsva1E/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/UJthzYsva1E/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Coffee Shop Vibes",
+                "liveBroadcastContent": "live",
+                "publishTime": "2021-05-26T11:15:48Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "pTfJYlXq4CsbjNh_3NOZ8HCJYf0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "oFh12vG-tEY"
+            },
+            "snippet": {
+                "publishedAt": "2021-07-04T02:04:27Z",
+                "channelId": "UCwobzUc3z-0PrFpoRxNszXQ",
+                "title": "🔴 Sleep Music 24/7, Meditation Music, Calming Music, Sleep, Relaxing Music, Study, Sleeping Music",
+                "description": "Get the new Yellow Brick Cinema iOS app for a 7-day FREE trial: https://apple.co/30uHqHe Sleep Music 24/7, Meditation Music, Calming Music, Sleep, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/oFh12vG-tEY/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/oFh12vG-tEY/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/oFh12vG-tEY/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Yellow Brick Cinema - Relaxing Music",
+                "liveBroadcastContent": "live",
+                "publishTime": "2021-07-04T02:04:27Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "RZ3VWAaidSe259gXPQlnFHtOdIU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "YCK2N6mYlcM"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-10T02:00:18Z",
+                "channelId": "UCwobzUc3z-0PrFpoRxNszXQ",
+                "title": "🔴 Deep Sleep Music 24/7, Healing Music, Meditation Music, Sleep Music, Relaxing Music, Study, Sleep",
+                "description": "Get the new Yellow Brick Cinema iOS app for a 7-day FREE trial: https://apple.co/30uHqHe Deep Sleep Music 24/7, Healing Music, Meditation Music, Sleep ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YCK2N6mYlcM/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YCK2N6mYlcM/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YCK2N6mYlcM/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Yellow Brick Cinema - Relaxing Music",
+                "liveBroadcastContent": "live",
+                "publishTime": "2021-08-10T02:00:18Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "tEDFYwyfXv5XLJDi6jSEVi42nrk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "7h0zb4S1z1I"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-14T14:28:31Z",
+                "channelId": "UCJhjE7wbdYAae1G25m0tHAA",
+                "title": "SUNDAY MORNING JAZZ: August Morning Jazz  - Morning Jazz Music to Relax and Chill Out",
+                "description": "Please Subscribe! https://www.youtube.com/user/cafemusicbgmchannel The band produced by Cafe Music BGM channel ▽ JUTESETS Apple Music: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7h0zb4S1z1I/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7h0zb4S1z1I/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7h0zb4S1z1I/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Cafe Music BGM channel",
+                "liveBroadcastContent": "live",
+                "publishTime": "2021-08-14T14:28:31Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "kWlvToJKOi5HcVAy1LgcJEgSHBI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "UDUgVCzD0kE"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-16T06:55:06Z",
+                "channelId": "UCxHgTz3aZsLY0Ed7jF3stJQ",
+                "title": "BASS BOOSTED 2021 🔈 CAR BASS MUSIC 2021 🔥 BEST EDM, BOUNCE, ELECTRO HOUSE",
+                "description": "BASS BOOSTED 2021 CAR BASS MUSIC 2021 BEST EDM, BOUNCE, ELECTRO HOUSE Do not forget to LIKE and SHARE the mix if you enjoy it!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/UDUgVCzD0kE/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/UDUgVCzD0kE/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/UDUgVCzD0kE/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "HQ - Bass Music",
+                "liveBroadcastContent": "live",
+                "publishTime": "2021-08-16T06:55:06Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "kYIhiW7PWmOLqca9E3EMRZByxIA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Lg5HkHSZ114"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-16T16:10:03Z",
+                "channelId": "UCJhjE7wbdYAae1G25m0tHAA",
+                "title": "TUESDAY MORNING JAZZ: Relax Cafe Music - Relaxing Jazz Music for Sleep, Work &amp; Study",
+                "description": "Please Subscribe! https://www.youtube.com/user/cafemusicbgmchannel The band produced by Cafe Music BGM channel ▽ JUTESETS Apple Music: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Lg5HkHSZ114/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Lg5HkHSZ114/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Lg5HkHSZ114/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Cafe Music BGM channel",
+                "liveBroadcastContent": "live",
+                "publishTime": "2021-08-16T16:10:03Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Qj7ag8_tnKygGn5o-_lOSeyZpN8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "dcBUQJNvG-8"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-16T00:13:44Z",
+                "channelId": "UCNJFXYXkXt_P8bJUxb21MpA",
+                "title": "Night Music ❤️ Smooth Jazz Piano Music for Relaxing and Chilling Out",
+                "description": "Smooth Jazz at Night • The perfect sound for chilling out after a long day's work. Relax, enjoy, and be at peace. ▻ Subscribe to Dr. SaxLove: http://bit.ly/2s0tLE4 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/dcBUQJNvG-8/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/dcBUQJNvG-8/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/dcBUQJNvG-8/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Dr. SaxLove Music Channel",
+                "liveBroadcastContent": "live",
+                "publishTime": "2021-08-16T00:13:44Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "wpzn2Hs2TFbo5WLfpcUsoU8EGuY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "baIDmXotEpA"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-14T15:18:34Z",
+                "channelId": "UCwobzUc3z-0PrFpoRxNszXQ",
+                "title": "🔴 Relaxing Music 24/7, Peaceful Music, Sleep Music, Spa, Meditation Music, Study, Sleeping Music",
+                "description": "Get the new Yellow Brick Cinema iOS app for a 7-day FREE trial: https://apple.co/30uHqHe Relaxing Music 24/7, Peaceful Music, Sleep Music, Spa, Meditation ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/baIDmXotEpA/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/baIDmXotEpA/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/baIDmXotEpA/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Yellow Brick Cinema - Relaxing Music",
+                "liveBroadcastContent": "live",
+                "publishTime": "2021-08-14T15:18:34Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "qId00J3PQC0mHWbwZpqqHJjhdi8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "P_5Ek0iTtjo"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-16T01:06:00Z",
+                "channelId": "UCrEZTUihgMA1CZHJyeEAI6g",
+                "title": "Ibiza Summer Mix 2021 🍓 Best Of Tropical Deep House Music Chill Out Mix 2021 #24",
+                "description": "Ibiza Summer Mix 2021 Best Of Tropical Deep House Music Chill Out Mix 2021 #23 All songs in this spotify playlist: https://spoti.fi/2TJ4Dyj #mixtapclub ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/P_5Ek0iTtjo/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/P_5Ek0iTtjo/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/P_5Ek0iTtjo/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Mixtape Club",
+                "liveBroadcastContent": "live",
+                "publishTime": "2021-08-16T01:06:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "EATeV3SBgVBhT_-zykWkF0t_yWg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Mq3kIiMS4pI"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-07T22:52:15Z",
+                "channelId": "UC_jCXm9x_z9_kp8DNbIs6mQ",
+                "title": "Gabby&#39;s Dollhouse 24/7 - MUSIC &amp; FRIENDS MARATHON",
+                "description": "Welcome to Gabby's Dollhouse, the preschool show with a surprise inside! Created and executive produced by Traci Paige Johnson (Blue's Clues, Daniel ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Mq3kIiMS4pI/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Mq3kIiMS4pI/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Mq3kIiMS4pI/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Gabby & Friends",
+                "liveBroadcastContent": "live",
+                "publishTime": "2021-08-07T22:52:15Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "gfqn0-3abB9gwqNL8KBB3wLwEXA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Qf2tWN6mEPA"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-16T18:08:14Z",
+                "channelId": "UCwobzUc3z-0PrFpoRxNszXQ",
+                "title": "🔴 Deep Sleep Music 24/7, Sleeping Music, Insomnia, Meditation Music, Zen, Yoga, Study Music, Sleep",
+                "description": "Get the new Yellow Brick Cinema iOS app for a 7-day FREE trial: https://apple.co/30uHqHe Deep Sleep Music 24/7, Sleeping Music, Insomnia, Meditation Music, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Qf2tWN6mEPA/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Qf2tWN6mEPA/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Qf2tWN6mEPA/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Yellow Brick Cinema - Relaxing Music",
+                "liveBroadcastContent": "live",
+                "publishTime": "2021-08-16T18:08:14Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "hqRG3-coZfc56LI-6lYJaG6Tz5w",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "scmIRq6XzqI"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-16T13:08:26Z",
+                "channelId": "UCOqvGHsiPmcSM7o-zKCii3A",
+                "title": "Deep Focus - Ambient Music For Studying, Concentration, Work And Meditation - Relaxing Music",
+                "description": "Welcome to Beautiful Ambient Music ! Use this video as relaxing music to sleep, relax and promote healing meditation, focus music, deep focus music, ambient ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/scmIRq6XzqI/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/scmIRq6XzqI/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/scmIRq6XzqI/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Beautiful Ambient Music",
+                "liveBroadcastContent": "live",
+                "publishTime": "2021-08-16T13:08:26Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Wfh95c_Y_PXQjqMWGq6kd1eG8hI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "koRJkhLr0z8"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-13T16:05:21Z",
+                "channelId": "UCM7XCXnxtYJkkMN0zf0tsSw",
+                "title": "Anti - Anxiety Cleanse l Peaceful Positive Energy Meditation Music l Relax Mind Body l Healing Music",
+                "description": "Anti - Anxiety Cleanse l Peaceful Positive Energy Meditation Music l Relax Mind Body l Healing Music by Meditation and Healing. This is powerful anti anxiety ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/koRJkhLr0z8/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/koRJkhLr0z8/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/koRJkhLr0z8/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Meditation and Healing",
+                "liveBroadcastContent": "live",
+                "publishTime": "2021-08-13T16:05:21Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "-KJ_L-qvA138P4zGKsVVIWjMAB0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "W94wioLlpN4"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-16T06:50:45Z",
+                "channelId": "UCdgqABAA72AmJzAQUJTt_-Q",
+                "title": "BASS BOOSTED 🔈 CAR BASS MUSIC 2021 🔈 SONGS FOR CAR 2021 🔥 BEST EDM, BOUNCE, ELECTRO HOUSE",
+                "description": "BASS BOOSTED CAR BASS MUSIC 2021 SONGS FOR CAR 2021 BEST EDM, BOUNCE, ELECTRO HOUSE © Follow DG Music - Bass Boosted ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/W94wioLlpN4/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/W94wioLlpN4/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/W94wioLlpN4/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "DG Music - Bass Boosted",
+                "liveBroadcastContent": "live",
+                "publishTime": "2021-08-16T06:50:45Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "wJieZHYljJhJ0tCde3aySM3VJnM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "He0SW5vBalA"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-16T08:21:20Z",
+                "channelId": "UCfNwCpAb1ZH4rpKMyUsvRIg",
+                "title": "Ibiza Summer Mix 2021 🔴 Best Of Tropical Deep House Music Chill Out 🌲 Deep Zone  #4",
+                "description": "DONATE PAYPAL : https://www.paypal.me/tranmaianh =============================================== ▻ Send Music To Deep Zone ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/He0SW5vBalA/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/He0SW5vBalA/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/He0SW5vBalA/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "DEEP ZONE",
+                "liveBroadcastContent": "live",
+                "publishTime": "2021-08-16T08:21:20Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "i9QiIht42YHWq3LUpEAyizsJS-U",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "244Sn2vjmpY"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-12T11:23:42Z",
+                "channelId": "UCiBjOPqgx00o4SfVldEhJHQ",
+                "title": "DISKOTIK ONLINE DJ LAGU MUSIC INDONESIA DAN LAGU BARAT - Music Breakbeat Terbaru B2",
+                "description": "B2 DISKOTIK ONLINE GOYANG TERUS LAGU MUSIC INDONESIA DAN LAGU BARAT - Music Breakbeat Terbaru DISKOTIK ONLINE LAGU MUSIC ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/244Sn2vjmpY/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/244Sn2vjmpY/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/244Sn2vjmpY/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "BreakBeat",
+                "liveBroadcastContent": "live",
+                "publishTime": "2021-08-12T11:23:42Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "8ghSGFjSZD5NJ40E5g9VXoAgpwI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "8N-eLvmheSE"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-07T11:54:21Z",
+                "channelId": "UC1bjWVLp2aaJmPcNbi9OOsw",
+                "title": "Deep Focus Music: Improve Your Concentration and Alertness - Study Music",
+                "description": "Deep Focus Music: Improve Your Concentration and Alertness - Study Music. -------------------------------------------------------------------------------------- Productivity Music: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8N-eLvmheSE/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8N-eLvmheSE/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8N-eLvmheSE/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Greenred Productions - Relaxing Music",
+                "liveBroadcastContent": "live",
+                "publishTime": "2021-08-07T11:54:21Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "WwiQKj9xj8zDjDX0PCnFc7eoZqo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "LN4r-K8ZP5Q"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-11T14:34:15Z",
+                "channelId": "UCVHOgH4XEyYx-ZEaya1XqCQ",
+                "title": "24/7 Dark Ambient Music Livestream for Studying Lovecraftian Tomes &amp; Riding the Monorail",
+                "description": "Dark Music Livestream, relax on the monorail and dream of ancient temples, forgotten cathedrals, emptied space stations and lovecraftian horrors Join Cryo ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/LN4r-K8ZP5Q/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/LN4r-K8ZP5Q/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/LN4r-K8ZP5Q/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Cryo Chamber",
+                "liveBroadcastContent": "live",
+                "publishTime": "2021-08-11T14:34:15Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ZqCAMumrscwYxuc39kkM8Q6q9Ac",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "O_96MO51T_I"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-16T08:04:16Z",
+                "channelId": "UCK5yjEWK4q1W6rvmOwxixlg",
+                "title": "IBIZA SUMMER MIX 2021 🌴 Best Of Tropical Deep House Music Chill Out Mix ↠ Feeling Me #5",
+                "description": "IBIZA SUMMER MIX 2021 Best Of Tropical Deep House Music Chill Out Mix ↠ Feeling Me #5 The best place to offer deep house, summer mix music in the ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/O_96MO51T_I/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/O_96MO51T_I/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/O_96MO51T_I/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Deep Light",
+                "liveBroadcastContent": "live",
+                "publishTime": "2021-08-16T08:04:16Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "1U4nA6SjTzZFsjE8O-cKuOpEadc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "omdPNxQNAh4"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-09T02:00:58Z",
+                "channelId": "UCwobzUc3z-0PrFpoRxNszXQ",
+                "title": "🔴 Deep Sleep Music 24/7, Healing Music, Meditation Music, Sleep Music, Relaxing Music, Study, Sleep",
+                "description": "Get the new Yellow Brick Cinema iOS app for a 7-day FREE trial: https://apple.co/30uHqHe Deep Sleep Music 24/7, Healing Music, Meditation Music, Sleep ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/omdPNxQNAh4/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/omdPNxQNAh4/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/omdPNxQNAh4/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Yellow Brick Cinema - Relaxing Music",
+                "liveBroadcastContent": "live",
+                "publishTime": "2021-08-09T02:00:58Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "1XHFvkV3D72SudWtYejlfpnh5eY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "kcSvJ0L-m7k"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-14T10:04:38Z",
+                "channelId": "UCBIjCQQq4R5HyBJ_MPxGCOw",
+                "title": "New Country Music 2021 | Chris Stapleton, Kane Brown, Luke Combs, Florida Georgia Line, Thomas Rhett",
+                "description": "New Country Music 2021 | Chris Stapleton, Kane Brown, Luke Combs, Florida Georgia Line, Thomas Rhett New Country Music 2021 | Chris Stapleton, Kane ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/kcSvJ0L-m7k/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/kcSvJ0L-m7k/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/kcSvJ0L-m7k/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Country Library",
+                "liveBroadcastContent": "live",
+                "publishTime": "2021-08-14T10:04:38Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "wxjKZkWwii9mDdaJKKWyYgobDRY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "pwe7dCis3z0"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-16T06:31:45Z",
+                "channelId": "UCtAFn7bhMVpavKo5IZ9FM6g",
+                "title": "【癒しピアノ】The Best of Piano Music 24/7 Live - Music for Study, Work【作業用・勉強用BGMメドレー】",
+                "description": "今まで制作したピアノ曲をメドレーにしました♪ The best collection of piano music I have composed so far ♪ ーーーーーーーーーーーーーーーーーーー 毎週、オリジナル ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/pwe7dCis3z0/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/pwe7dCis3z0/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/pwe7dCis3z0/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "BGM maker",
+                "liveBroadcastContent": "live",
+                "publishTime": "2021-08-16T06:31:45Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "uXN8k-GuJhjOy8vB_F5GhDBxem8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Hwv6fS3UzeE"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-16T01:33:24Z",
+                "channelId": "UCWsiaqmgQLRFWdzW4qg6uWg",
+                "title": "80&#39;s70&#39;s90&#39;s_सदाबहार_पुराने_गाने_💝💝💝अलका_याग्निक_उदित_नारायण_लता_मंगेशकर",
+                "description": "Top 10 Video 90's Evergreen Romantic Hits Best Bollywood Hindi Old Song 01. https://youtu.be/zW9-LqvYnV8 02. https://youtu.be/8zPHjmSOWKY 03.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Hwv6fS3UzeE/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Hwv6fS3UzeE/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Hwv6fS3UzeE/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "King Music",
+                "liveBroadcastContent": "live",
+                "publishTime": "2021-08-16T01:33:24Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "0nxul3SIcFW92X39RAxFSRogW80",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "VufoEz8jyhM"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-09T11:09:53Z",
+                "channelId": "UCiBjOPqgx00o4SfVldEhJHQ",
+                "title": "DISKOTIK MUSIC LAGU INDONESIA GAS FULL  BREAKBEAT NONSTOP 24 JAM B8",
+                "description": "B8 MUSIC LAGU INDONESIA GAS FULL BREAKBEAT NONSTOP 24 JAM B8 DISKOTIK MUSIC GAS FULL BREAKBEAT NONSTOP 24 JAM B8 Bergabung ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/VufoEz8jyhM/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/VufoEz8jyhM/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/VufoEz8jyhM/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "BreakBeat",
+                "liveBroadcastContent": "live",
+                "publishTime": "2021-08-09T11:09:53Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "wbRlyGO-ADILiyH4YWzCJfWpZNE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "eZ-51Ww7Y3c"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-14T00:13:53Z",
+                "channelId": "UCdi8yQBdBfn1ECu3ayH_TnA",
+                "title": "Beautiful Relaxing Music, Peaceful Soothing Instrumental Music, &quot;Scotland Hills&quot; by Tim Janis",
+                "description": "Beautiful Relaxing Music, Peaceful Soothing Instrumental Music, \"Scotland Hills\" by Tim Janis. My instrumental music can help you find deep relaxation, relieve ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/eZ-51Ww7Y3c/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/eZ-51Ww7Y3c/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/eZ-51Ww7Y3c/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Tim Janis",
+                "liveBroadcastContent": "live",
+                "publishTime": "2021-08-14T00:13:53Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "mYi4PNRFYXeUw4-84_TUeeObvXE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "tmAMnTYPk_M"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-13T11:03:39Z",
+                "channelId": "UCzB1A9rqMob3Q5bi7uQpmSQ",
+                "title": "MCGI 24/7 MUSIC",
+                "description": "Intellectual Property Office Registered Songs of Members Church of God International.**** ***MCGI MUSIC CHANNEL**** Welcome to the official YouTube ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/tmAMnTYPk_M/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/tmAMnTYPk_M/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/tmAMnTYPk_M/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MCGI MUSIC CHANNEL",
+                "liveBroadcastContent": "live",
+                "publishTime": "2021-08-13T11:03:39Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "_SYy1aQDVSQWuK1tXGWlys6oMzo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ihZlWtFKVGQ"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-15T16:10:47Z",
+                "channelId": "UCMwePVHRpDdfeUcwtDZu2Dw",
+                "title": "NCM 24/7 Live Stream 🎵 Gaming Music Radio | NoCopyrightMusic| Dubstep, Trap, EDM, Electro House",
+                "description": "NCM 24/7 Live Stream Gaming Music Radio | NoCopyrightMusic| Dubstep, Trap, EDM, Electro House ❤️ Follow Monstafluff on Spotify: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ihZlWtFKVGQ/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ihZlWtFKVGQ/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ihZlWtFKVGQ/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Monstafluff Music",
+                "liveBroadcastContent": "live",
+                "publishTime": "2021-08-15T16:10:47Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "7YO2vdci6tHexY6lhbrxGoMmyok",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "aAgCmqEOmXE"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-16T14:06:53Z",
+                "channelId": "UCC9rwt1T2i4klATksN6prdQ",
+                "title": "Best Shuffle Dance Music 2021 | 24/7 Live Stream | Melbourne Bounce Music &amp; Electro Party Dance 2021",
+                "description": "Best Shuffle Dance Music 2021 | 24/7 Live Stream | Melbourne Bounce Music & Electro Party Dance 2021 Turn on the bell to join the notification squad ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/aAgCmqEOmXE/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/aAgCmqEOmXE/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/aAgCmqEOmXE/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "N&T Party",
+                "liveBroadcastContent": "live",
+                "publishTime": "2021-08-16T14:06:53Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "J7MYQnH9VEhageGilcVT5aaGIlU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "v4xopuMhJQ0"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-14T13:59:03Z",
+                "channelId": "UCL5FK77d1MCeTtqEQMmmAnw",
+                "title": "🍄NINTENDO RADIO [24/7 Nintendo Music Live Stream]⭐",
+                "description": "Use !help in chat to get a quick start on how to collect RP and take part in chat minigames! =) Remember that you can always find the live version of the live ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/v4xopuMhJQ0/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/v4xopuMhJQ0/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/v4xopuMhJQ0/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Henriko Magnifico",
+                "liveBroadcastContent": "live",
+                "publishTime": "2021-08-14T13:59:03Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Va8TAwwGjgLcG8dx4FbtKoJ99fs",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "jpMwBiOWEVQ"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-13T01:16:39Z",
+                "channelId": "UCBcXlF5tW--oHBDmtIUDfNQ",
+                "title": "Best Music Mix ♫ No Copyright EDM ♫ Gaming Music Trap, House, Dubstep",
+                "description": "Best Music Mix ♫ No Copyright EDM ♫ Gaming Music Trap, House, Dubstep ▻ Stream On Spotify: https://lnk.to/7evenBrand ✪ Help Us to Get 100.000 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/jpMwBiOWEVQ/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/jpMwBiOWEVQ/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/jpMwBiOWEVQ/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sound Cloudx",
+                "liveBroadcastContent": "live",
+                "publishTime": "2021-08-13T01:16:39Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "WQNna7Ds9k2APFLY00R81VuPRBA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "tcrV02pxPoM"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-15T15:07:39Z",
+                "channelId": "UCQINXHZqCU5i06HzxRkujfg",
+                "title": "月曜コーヒー: Happy and Positive Energy Music - Cooling Jazz &amp; Bossa Nova Music for Work, Study, Unwind",
+                "description": "Please Subscribe! https://www.youtube.com/user/bgmchannelbgm Music For Business「BGMC Station」 English: https://bgmc-station.com/en/ JAPANESE: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/tcrV02pxPoM/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/tcrV02pxPoM/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/tcrV02pxPoM/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "BGM channel",
+                "liveBroadcastContent": "live",
+                "publishTime": "2021-08-15T15:07:39Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "-j79RUyiFGCcxednhPNM_C4Q2SU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Lulb28gKe_k"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-16T07:41:48Z",
+                "channelId": "UCGYtejwagNGsMP4-Q7WQ_xw",
+                "title": "BEST MORNING WORSHIP SONGS 2021 - CHRISTIAN WORSHIP MUSIC 2021 - TOP PRAISE AND WORSHIP SONGS",
+                "description": "top1trending #christian #latestchristiangospel Playlist: https://www.youtube.com/playlist?list=PLxNVqT1WAGrgZdauWco6UJVfDVcNrhjRO ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Lulb28gKe_k/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Lulb28gKe_k/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Lulb28gKe_k/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Latest Christian Gospel",
+                "liveBroadcastContent": "live",
+                "publishTime": "2021-08-16T07:41:48Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "qBwEM56T1tA3pLz-sTk075n-U2A",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "B7hr8Cpmy7o"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-16T09:52:47Z",
+                "channelId": "UCz-zdiZ1WNs0n9-hyrvBgzw",
+                "title": "The Best Disco Music of 70s 80s 90s - Nonstop Disco Dance Songs 70 80 90s Music Hits",
+                "description": "The Best Disco Music of 70s 80s 90s - Nonstop Disco Dance Songs 70 80 90s Music Hits.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/B7hr8Cpmy7o/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/B7hr8Cpmy7o/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/B7hr8Cpmy7o/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Disco Express",
+                "liveBroadcastContent": "live",
+                "publishTime": "2021-08-16T09:52:47Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "oryHs8T8LI7lC84JuLg-NL8oeAE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "MI01wvtrVnM"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-08T12:39:58Z",
+                "channelId": "UCiBjOPqgx00o4SfVldEhJHQ",
+                "title": "RASANYA INGIN TERBANG MELAYANG MUSIC DJ BREAKBEAT LIVE STREAMING B1",
+                "description": "B1 RASANYA INGIN TERBANG MELAYANG + PENANTIAN MUSIC DJ BREAKBEAT LIVE STREAMING #dj #livestreaming #breakbeat Follow Our Social Media ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/MI01wvtrVnM/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/MI01wvtrVnM/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/MI01wvtrVnM/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "BreakBeat",
+                "liveBroadcastContent": "live",
+                "publishTime": "2021-08-08T12:39:58Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "7IjCZEUSMw_bUYJP8qtQWg4ceP4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "SOz0FKUD6fo"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-16T17:35:01Z",
+                "channelId": "UC961ko9mCxvoHaeMUJb4Lfg",
+                "title": "Soothing Healing Meditation Music 24/7 💜 Positive Energy | Solfeggio Frequency | Self Love Energy",
+                "description": "Dear Precious Soul Always laugh when you can. It is cheap medicine. ~ Lord Byron Infinite Love & Kindness to you and to all Soothing Healing Meditation ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/SOz0FKUD6fo/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/SOz0FKUD6fo/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/SOz0FKUD6fo/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Spirit Tribe Awakening",
+                "liveBroadcastContent": "live",
+                "publishTime": "2021-08-16T17:35:01Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "SIVezimWPwqzMumQaLPnbdFpPq8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "AFI4G6oFnNM"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-16T13:13:00Z",
+                "channelId": "UCLPiNPzZkDUnnMWLEp_fqZA",
+                "title": "4K Undersea Turtle Paradise with Relaxing Music - Stunning Underwater Footage (4K VIDEO ULTRA HD)",
+                "description": "4K Undersea Turtle Paradise with Relaxing Music - Stunning Underwater Footage (4K VIDEO ULTRA HD) Sea turtles (superfamily Chelonioidea), sometimes ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/AFI4G6oFnNM/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/AFI4G6oFnNM/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/AFI4G6oFnNM/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Deep Music 24h",
+                "liveBroadcastContent": "live",
+                "publishTime": "2021-08-16T13:13:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "BvflXWMfdu6K5la2uwkjyJ9e9pY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "URV9aWMsx3c"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-16T08:10:03Z",
+                "channelId": "UCQINXHZqCU5i06HzxRkujfg",
+                "title": "Healing Guitar: Summer Beach Leisure - Chilling Out Easy Listening Music for Relaxing, Cooling",
+                "description": "Please Subscribe! https://www.youtube.com/user/bgmchannelbgm Music For Business「BGMC Station」 English: https://bgmc-station.com/en/ JAPANESE: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/URV9aWMsx3c/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/URV9aWMsx3c/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/URV9aWMsx3c/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "BGM channel",
+                "liveBroadcastContent": "live",
+                "publishTime": "2021-08-16T08:10:03Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "CbNOQF-F3lN4rMURHbaoYTEEads",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "nRY0At_f-l0"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-16T15:03:15Z",
+                "channelId": "UCQINXHZqCU5i06HzxRkujfg",
+                "title": "火曜コーヒー: Exquisite Calm Jazz Bossa Nova Morning Music",
+                "description": "Please Subscribe! https://www.youtube.com/user/bgmchannelbgm Music For Business「BGMC Station」 English: https://bgmc-station.com/en/ JAPANESE: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/nRY0At_f-l0/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/nRY0At_f-l0/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/nRY0At_f-l0/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "BGM channel",
+                "liveBroadcastContent": "live",
+                "publishTime": "2021-08-16T15:03:15Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "4-w6yruadEXpy3knCRMxE4zuTHs",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "IBahGmQCovI"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-14T21:01:37Z",
+                "channelId": "UCqKLOX-B7H9djovoTzj-Wdg",
+                "title": "SUNDAY COFFEE MORNING JAZZ : Positive Morning Bossa Nova to Work, Study, Relax Weekend",
+                "description": "SUNDAY COFFEE MORNING JAZZ : Positive Morning Bossa Nova to Work, Study, Relax Weekend. Download / Stream : ⏬ Spotify : https://spoti.fi/3oEYPpr ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/IBahGmQCovI/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/IBahGmQCovI/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/IBahGmQCovI/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Jazz & Bossa Collection",
+                "liveBroadcastContent": "live",
+                "publishTime": "2021-08-14T21:01:37Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "NrFy6cMoqtFtRqMP9yoRd1-xeuA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "CSmUfmxCZ14"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-14T10:13:24Z",
+                "channelId": "UCBIjCQQq4R5HyBJ_MPxGCOw",
+                "title": "Golden Classic Country Songs Of 80s 90s - Top 100 Country Music Of 1980s 1990s",
+                "description": "Golden Classic Country Songs Of 80s 90s - Top 100 Country Music Of 1980s 1990s Golden Classic Country Songs Of 80s 90s - Top 100 Country Music Of ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/CSmUfmxCZ14/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/CSmUfmxCZ14/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/CSmUfmxCZ14/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Country Library",
+                "liveBroadcastContent": "live",
+                "publishTime": "2021-08-14T10:13:24Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "hly8pHKAoEGwjTMfWCuEAoH9ILU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "bpSP8W5NhCo"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-16T02:06:13Z",
+                "channelId": "UCmQK52xYtdeg7EYiQhqEeZA",
+                "title": "Sleep Music 24/7, Peaceful Music, Insomnia, Relaxing Music, Calming Music, Meditation Music, Sleep",
+                "description": "Sleep Music 24/7, Peaceful Music, Insomnia, Relaxing Music, Calming Music, Meditation Music, Sleep – Are you looking for calming music, meditation music, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/bpSP8W5NhCo/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/bpSP8W5NhCo/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/bpSP8W5NhCo/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Body Mind Zone",
+                "liveBroadcastContent": "live",
+                "publishTime": "2021-08-16T02:06:13Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "fLiEMgXEOyCadCD-Ue6BMW64wWo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "oZ3J2vh-y14"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-15T03:07:29Z",
+                "channelId": "UCwobzUc3z-0PrFpoRxNszXQ",
+                "title": "🔴 Relaxing Sleep Music 24/7, Spa, Peaceful Music, Meditation Music, Sleep, Study, Sleeping Music",
+                "description": "Get the new Yellow Brick Cinema iOS app for a 7-day FREE trial: https://apple.co/30uHqHe Relaxing Sleep Music 24/7, Spa, Peaceful Music, Meditation Music, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/oZ3J2vh-y14/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/oZ3J2vh-y14/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/oZ3J2vh-y14/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Yellow Brick Cinema - Relaxing Music",
+                "liveBroadcastContent": "live",
+                "publishTime": "2021-08-15T03:07:29Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "BvO-Av-QudS7_cG-sLmNRrEk6fw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "5dy-crjMWV8"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-16T06:38:07Z",
+                "channelId": "UCstzZIeiL_tWs_Wt7ZA9ttw",
+                "title": "EDM Motivation Music Mix 2021 💪 Best EDM, BASS, TRAP, ELECTRO, HIP HOP 💪 EDM Workout Music 2021",
+                "description": "EDM Motivation Music Mix 2021 Best EDM, BASS, TRAP, ELECTRO, HIP HOP EDM Workout Music 2021 EDM Motivation Music Mix 2021 Best EDM, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5dy-crjMWV8/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5dy-crjMWV8/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5dy-crjMWV8/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "City Gym - Música Electrónica",
+                "liveBroadcastContent": "live",
+                "publishTime": "2021-08-16T06:38:07Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "P566POogyGMWVlsC74t5POfC7gk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ta4Z3VNma18"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-10T07:21:39Z",
+                "channelId": "UCBcXlF5tW--oHBDmtIUDfNQ",
+                "title": "Best Music Mix 2021 ♫ Best Gaming Music Mix ♫ EDM, Dubstep, Trap, DnB, Electro House",
+                "description": "Best Music Mix 2021 ♫ Best Gaming Music Mix ♫ EDM, Dubstep, Trap, DnB, Electro House ▻ Stream On Spotify: https://lnk.to/7evenBrand ✪ Help Us to Get ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ta4Z3VNma18/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ta4Z3VNma18/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ta4Z3VNma18/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sound Cloudx",
+                "liveBroadcastContent": "live",
+                "publishTime": "2021-08-10T07:21:39Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "YKA9L2mLrUyRD9Ah32youOslFZk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "q3H0yMmsBaM"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-15T07:49:29Z",
+                "channelId": "UCiZLTDFNOGtM3s76kbudaOQ",
+                "title": "日文、動漫音樂電台 | Anime Music➨24/7",
+                "description": "不穩或斷線請重連：https://www.youtube.com/channel/UCiZLTDFNOGtM3s76kbudaOQ/live (永久網址) ♡感謝你留下喜歡和訂閱♡ 打開鈴鐺接收最新消息→ ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/q3H0yMmsBaM/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/q3H0yMmsBaM/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/q3H0yMmsBaM/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "親親2o音樂LîvË【日系音樂】",
+                "liveBroadcastContent": "live",
+                "publishTime": "2021-08-15T07:49:29Z"
+            }
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+@import '../../sass/mixins';
+
+.video-thumbnail {
+    &-wrapper {
+        cursor: pointer;
+        display: flex;
+        padding: 1rem;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        background-color: var(--general-section-1);
+        border: 1px solid transparent;
+        border-radius: 4px;
+        margin: 2rem 2rem;
+        width: 95%;
+
+        @include tablet {
+            flex-direction: column;
+            width: 40%;
+        }
+
+        @include desktop {
+            flex-direction: column;
+            margin: 2rem 1rem;
+            width: 20%;
+        }
+    }
+    &-wrapper:hover {
+        border-width: 1px;
+        border-style: solid;
+        border-color: var(--border-hover);
+        -webkit-transition: border-color 0.2s ease-in;
+        -moz-transition: border-color 0.2s ease-in;
+        -ms-transition: border-color 0.2s ease-in;
+        -o-transition: border-color 0.2s ease-in;
+        transition: border-color 0.2s ease-in;
+    }
+
+    &-title {
+        margin-top: 1rem;
+        padding: 1rem;
+        flex: 1;
+        width: 100%;
+        font-size: medium;
+        line-height: 2rem;
+        color: var(--text-general);
+        min-height: 3rem;
+        max-height: 3rem;
+        overflow: hidden;
+    }
+}
+
+.thumbnail-mage {
+    width: 40%;
+    height: auto;
+    border-radius: 4px;
+
+    @include tablet {
+        width: 100%;
+    }
+
+    @include desktop {
+        width: 100%;
+    }
+}

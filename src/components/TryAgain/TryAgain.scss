@@ -1,0 +1,43 @@
+.try-again {
+    &-wrapper {
+        display: flex;
+        flex-direction: column;
+        flex: 1 1;
+        justify-content: center;
+        align-items: center;
+    }
+
+    &-text {
+        text-align: center;
+        font-size: large;
+        font-weight: bold;
+        color: var(--text-red);
+    }
+
+    &-btn {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        cursor: pointer;
+        padding: 0.5rem 1rem;
+        margin-top: 2rem;
+        border-radius: 4px;
+        background-color: var(--button-primary-default);
+
+
+        &-icon {
+            color: #fff;
+        }
+
+        &-text {
+            color: #fff;
+            font-size: medium;
+            margin-right: 1rem;
+        }
+    }
+
+    &-btn:hover {
+        background-color: var(--button-primary-hover);
+    }
+}

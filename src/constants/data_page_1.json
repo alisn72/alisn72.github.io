@@ -1,0 +1,1542 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "O_B5bqiBTyMOX51-c7e-HYJ518U",
+    "nextPageToken": "CC0QAA",
+    "regionCode": "FR",
+    "pageInfo": {
+        "totalResults": 8963,
+        "resultsPerPage": 45
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ketuShdwzjd22n6SeqHAvEnqT6Q",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "5qap5aO4i9A"
+            },
+            "snippet": {
+                "publishedAt": "2020-02-22T19:51:37Z",
+                "channelId": "UCSJ4gkVC6NrvII8umztf0Ow",
+                "title": "lofi hip hop radio - beats to relax/study to",
+                "description": "Thank you for listening, I hope you will have a good time here ✔️ | This music is free to use in your livestreams & videos → https://bit.ly/lofigirl-usethemusic ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5qap5aO4i9A/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5qap5aO4i9A/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5qap5aO4i9A/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Lofi Girl",
+                "liveBroadcastContent": "live",
+                "publishTime": "2020-02-22T19:51:37Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "R1Lb4f_o5DmydoETc_KQYxtsyeY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "cVZwpMAnYQo"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-15T19:55:29Z",
+                "channelId": "UCaCE5pzy49M8nQ59plgmFOA",
+                "title": "Monday Morning Jazz - Happy Light Jazz &amp; Bossa Nova Positive Music",
+                "description": "Best Monday Morning Jazz Radio Live Stream ! Enjoy Happy Relax Bossa Nova Jazz and Positive Good Mood Morning Music 24/7 to Chill Out by Richard ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/cVZwpMAnYQo/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/cVZwpMAnYQo/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/cVZwpMAnYQo/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Relax Cafe Music",
+                "liveBroadcastContent": "live",
+                "publishTime": "2021-08-15T19:55:29Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "a5HuZWEEZixp4E3PSu4ddxQxUiw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "5ZqBIHfgssg"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-16T14:58:56Z",
+                "channelId": "UCI_hjK53AIDlpB-Rpr1WnwQ",
+                "title": "NEW! 🔴 Minecraft Music Videos [Angry Alex and the Dragon, Drawn to the Bitter, FNAF, Bendy] 24/7",
+                "description": "FAZBEAR and FRIENDS MERCH : https://enchantedmob.creator-spring.com/ -- I like live streams. Do you like live streams too? Fazbear and Friends is an ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5ZqBIHfgssg/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5ZqBIHfgssg/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5ZqBIHfgssg/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ZAMination",
+                "liveBroadcastContent": "live",
+                "publishTime": "2021-08-16T14:58:56Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "lq-I_6PRq5Hvpcr6laT7YdGpeD4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "oLnPXOTIodM"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-15T23:35:47Z",
+                "channelId": "UCdi8yQBdBfn1ECu3ayH_TnA",
+                "title": "Beautiful Relaxing Music, Peaceful Soothing Instrumental Music, &quot;Tropical Birds&quot; By Tim Janis",
+                "description": "Beautiful Relaxing Music, Peaceful Soothing Instrumental Music, \"Tropical Birds\" By Tim Janis. My instrumental music can help you find deep relaxation, relieve ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/oLnPXOTIodM/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/oLnPXOTIodM/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/oLnPXOTIodM/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Tim Janis",
+                "liveBroadcastContent": "live",
+                "publishTime": "2021-08-15T23:35:47Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "kr_ni7L9KptmmOGGBuOEdb7Jrz4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "igHJhbxuTks"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-16T02:00:57Z",
+                "channelId": "UCwobzUc3z-0PrFpoRxNszXQ",
+                "title": "🔴 Relaxing Sleep Music 24/7, Meditation Music, Spa Music, Calming Music, Zen, Study, Sleeping Music",
+                "description": "Get the new Yellow Brick Cinema iOS app for a 7-day FREE trial: https://apple.co/30uHqHe Relaxing Sleep Music 24/7, Meditation Music, Spa Music, Calming ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/igHJhbxuTks/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/igHJhbxuTks/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/igHJhbxuTks/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Yellow Brick Cinema - Relaxing Music",
+                "liveBroadcastContent": "live",
+                "publishTime": "2021-08-16T02:00:57Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "v_j7xZOaAKziwx9Yg-GjZPOjA2w",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "yXdoWuM5q2M"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-15T16:44:16Z",
+                "channelId": "UCJhjE7wbdYAae1G25m0tHAA",
+                "title": "MONDAY MORNING JAZZ: Sweet Jazz Coffee &amp; Bossa Nova Jazz for Happy Morning",
+                "description": "Please Subscribe! https://www.youtube.com/user/cafemusicbgmchannel The band produced by Cafe Music BGM channel ▽ JUTESETS Apple Music: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/yXdoWuM5q2M/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/yXdoWuM5q2M/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/yXdoWuM5q2M/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Cafe Music BGM channel",
+                "liveBroadcastContent": "live",
+                "publishTime": "2021-08-15T16:44:16Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "pYGM_K4WoaR_cAGu-Fm7y8s7efs",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "219QNNvUJwE"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-16T08:51:44Z",
+                "channelId": "UCJhjE7wbdYAae1G25m0tHAA",
+                "title": "Work &amp; Jazz: Chill Jazz Music - Work Jazz Background Ambience for Concentration, Focus",
+                "description": "Please Subscribe! https://www.youtube.com/user/cafemusicbgmchannel The band produced by Cafe Music BGM channel ▽ JUTESETS Apple Music: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/219QNNvUJwE/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/219QNNvUJwE/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/219QNNvUJwE/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Cafe Music BGM channel",
+                "liveBroadcastContent": "live",
+                "publishTime": "2021-08-16T08:51:44Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "OWGT6NNNpx31-6bYvtF0oqTJBmo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "mpHHDyWC-eo"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-16T12:07:45Z",
+                "channelId": "UCNJFXYXkXt_P8bJUxb21MpA",
+                "title": "Monday Jazz ❤️ Smooth Jazz Music for Starting Your Week On A High Note",
+                "description": "Monday Smooth Jazz for getting your week started in the best possible way ... mellow, relaxed, confident, and happy. Enjoy, and make it a great week!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mpHHDyWC-eo/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mpHHDyWC-eo/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mpHHDyWC-eo/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Dr. SaxLove Music Channel",
+                "liveBroadcastContent": "live",
+                "publishTime": "2021-08-16T12:07:45Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "V-odOj2QNZLzyePbqtbcuF16t7k",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Jn1XFCCvSrg"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-08T02:37:39Z",
+                "channelId": "UCvbKGLFg-bgjWvAglehxOFw",
+                "title": "Summer Music Deep • 24/7 Live Radio | Best Relax House, Chillout, Study, Running, Happy Music",
+                "description": "Summer Music Deep is live streaming the best of Deep & Tropical House, Chill & Relax House Music, EDM, Dance & Pop as well as Music for Sleep, Focus, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Jn1XFCCvSrg/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Jn1XFCCvSrg/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Jn1XFCCvSrg/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Summer Music Deep",
+                "liveBroadcastContent": "live",
+                "publishTime": "2021-08-08T02:37:39Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "lJTdJ8IwQXIf_ij53BJH3IBSllA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "THgNaLA9Y5w"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-16T03:46:11Z",
+                "channelId": "UCTS9U13K42rCcRWJsdPW8yA",
+                "title": "Ibiza Summer Mix 2021 🍓 Best Of Tropical Deep House Music Chill Out Mix 2021 #134",
+                "description": "Ibiza Summer Mix 2021 Best Of Tropical Deep House Music Chill Out Mix 2021 #134 #Deephouse​ #Chillout​ #Houserelax2021​ #Summermix2021​ ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/THgNaLA9Y5w/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/THgNaLA9Y5w/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/THgNaLA9Y5w/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Queen Deep",
+                "liveBroadcastContent": "live",
+                "publishTime": "2021-08-16T03:46:11Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "nagF-UMUp8t_rvUx-vMl8rjzoE4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "gVHzUgER_-o"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-15T21:01:45Z",
+                "channelId": "UCqKLOX-B7H9djovoTzj-Wdg",
+                "title": "Monday Coffee Morning JAZZ : Positive Morning Bossa Nova &amp; Jazz Music to Relax, Good Day",
+                "description": "Monday Coffee Morning JAZZ : Positive Morning Bossa Nova & Jazz Music to Relax, Good Day. Download / Stream : ⏬ Spotify : https://spoti.fi/3oEYPpr ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/gVHzUgER_-o/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/gVHzUgER_-o/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/gVHzUgER_-o/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Jazz & Bossa Collection",
+                "liveBroadcastContent": "live",
+                "publishTime": "2021-08-15T21:01:45Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "doDGysjLgVFAlsDu72gYNyEs7QY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "thSuMEmQKXg"
+            },
+            "snippet": {
+                "publishedAt": "2021-07-08T09:00:30Z",
+                "channelId": "UC4zMk7dbUqzTZieuIFzzSgg",
+                "title": "自律神経を整える音楽～【めまい・耳鳴り・不安感・恐怖・イライラ・食欲不振・不眠】ストレスにより乱れた自律神経を整える～｜Autonomic nerve adjustment music",
+                "description": "音楽には心を豊かにするだけでなく、心身の不調を招くストレスの対策に役立つことが、近年の研究によって明らかになってきました。中でも注目したいのは、生命活動を ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/thSuMEmQKXg/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/thSuMEmQKXg/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/thSuMEmQKXg/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Relax Music BGM CHANNEL",
+                "liveBroadcastContent": "live",
+                "publishTime": "2021-07-08T09:00:30Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "jFUTJwNmG-sj6PUhJ3fSzSjkieU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "3ZswT0i7KsI"
+            },
+            "snippet": {
+                "publishedAt": "2021-01-14T05:08:03Z",
+                "channelId": "UC0f4WJAjYdwl4XYHz-6FhyQ",
+                "title": "Hits Radio 1 • Live Radio Pop Music 2021 Hits - Best English Songs 2021 - New Popular Songs 2021",
+                "description": "Hits Radio 1 • Live Radio Pop Music 2021 Hits - Best English Songs 2021 - New Popular Songs 2021 Other live streams please check them out and don't forget ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3ZswT0i7KsI/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3ZswT0i7KsI/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3ZswT0i7KsI/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Live Radio Music",
+                "liveBroadcastContent": "live",
+                "publishTime": "2021-01-14T05:08:03Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "41VeYDxj2OPUfCbPsajO86Yntkg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "5VJ0XAmoNRw"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-16T10:23:58Z",
+                "channelId": "UCNpUrH2KLq5dfwU_wohD9fA",
+                "title": "Ibiza Summer Mix 2021 🍓 Best Of Tropical Deep House Music Chill Out Mix 2021",
+                "description": "Ibiza Summer Mix 2021 Best Of Tropical Deep House Music Chill Out Mix 2021 #SummerMusicMix #BestOfDeepHouse #HotSummer #SUMMERMIX2021 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5VJ0XAmoNRw/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5VJ0XAmoNRw/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5VJ0XAmoNRw/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Deep Legacy.",
+                "liveBroadcastContent": "live",
+                "publishTime": "2021-08-16T10:23:58Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ZZmbLrnenLEUWB3SuXJzQ5aYV6o",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "2d0V2DEyk3M"
+            },
+            "snippet": {
+                "publishedAt": "2021-07-18T18:07:55Z",
+                "channelId": "UC1bjWVLp2aaJmPcNbi9OOsw",
+                "title": "Deep Focus - Music For Studying, Concentration and Work - Study Music",
+                "description": "Deep Focus - Music For Studying, Concentration and Work - Study Music. -------------------------------------------------------------------------------------- Productivity Music: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2d0V2DEyk3M/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2d0V2DEyk3M/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2d0V2DEyk3M/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Greenred Productions - Relaxing Music",
+                "liveBroadcastContent": "live",
+                "publishTime": "2021-07-18T18:07:55Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "cO9dp1kzkoGb7_gec9AWKAMFrNA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "HkH5J4xRTNk"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-16T07:24:08Z",
+                "channelId": "UCvN_HR_TVIA-iOl08mtlU2Q",
+                "title": "CAR MUSIC MIX 2021 🎧 BASS BOOSTED 🔈 SONGS FOR CAR 2021🔈 BEST EDM MUSIC MIX ELECTRO HOUSE 2021 #9",
+                "description": "CAR MUSIC MIX 2021 BASS BOOSTED SONGS FOR CAR 2021   BEST EDM MUSIC MIX ELECTRO HOUSE 2021 #9 #Carmusic​ #Bassboosted​ ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/HkH5J4xRTNk/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/HkH5J4xRTNk/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/HkH5J4xRTNk/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Eternal Music",
+                "liveBroadcastContent": "live",
+                "publishTime": "2021-08-16T07:24:08Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "-kAsU5lqDQRVvPk1fA9KoQgjvl8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "rEv4cBBmz7o"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-16T10:51:54Z",
+                "channelId": "UCM7XCXnxtYJkkMN0zf0tsSw",
+                "title": "&quot;PURE CLEAN POSITIVE ENERGY VIBRATION&quot; Meditation Music, Relax Mind Body, Healing Music, Relaxation",
+                "description": "\"PURE CLEAN POSITIVE ENERGY VIBRATION\" Meditation Music, Relax Mind Body, Healing Music, Relaxation by Meditation and Healing. Positive Energy In a ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rEv4cBBmz7o/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rEv4cBBmz7o/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rEv4cBBmz7o/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Meditation and Healing",
+                "liveBroadcastContent": "live",
+                "publishTime": "2021-08-16T10:51:54Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "lNXAg3C__dqFehGWz5pT_JPgO0Y",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Yx1wtgBi7w0"
+            },
+            "snippet": {
+                "publishedAt": "2021-05-09T14:56:58Z",
+                "channelId": "UCSUKYUtrszKkvnwkRWO8YYg",
+                "title": "Rain Sounds Piano Music 24/7 • Beautiful Relaxing Music, Sleep Music, Stress Relief",
+                "description": "Rain Sounds Piano Music 24/7 • Beautiful Relaxing Music, Sleep Music, Stress Relief Track information: Title: Love Me Composer: Nick Message from the ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Yx1wtgBi7w0/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Yx1wtgBi7w0/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Yx1wtgBi7w0/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Dream Musicas",
+                "liveBroadcastContent": "live",
+                "publishTime": "2021-05-09T14:56:58Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "MMlm1n_K3C9mdKZBMQFCZc7FFQc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "nJXdyOjW1Eg"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-15T00:51:44Z",
+                "channelId": "UCdi8yQBdBfn1ECu3ayH_TnA",
+                "title": "Beautiful Relaxing Hymns, Peaceful Instrumental Music, &quot;Sunday Morning Sunrise&quot; by Tim Janis",
+                "description": "Beautiful Relaxing Hymns, Peaceful Instrumental Music, \"Sunday Morning Sunrise\" by Tim Janis. Traditional Hymns like, Amazing Grace, Ave Maria, How Great ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/nJXdyOjW1Eg/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/nJXdyOjW1Eg/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/nJXdyOjW1Eg/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Tim Janis",
+                "liveBroadcastContent": "live",
+                "publishTime": "2021-08-15T00:51:44Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "v7gE53zGMJjW7HjTKLeBd2_Rqt4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "N9IWOM-JvLY"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-16T02:33:45Z",
+                "channelId": "UCNlfGuzOAKM1sycPuM_QTHg",
+                "title": "Deep Focus Music To Improve Concentration - 12 Hours of Ambient Study Music to Concentrate #93",
+                "description": "Deep Focus Music To Improve Concentration - 12 Hours of Ambient Study Music to Concentrate #93 Enjoy these 12 of deep focus music to improve ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/N9IWOM-JvLY/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/N9IWOM-JvLY/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/N9IWOM-JvLY/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "4K Video Nature - Focus Music",
+                "liveBroadcastContent": "live",
+                "publishTime": "2021-08-16T02:33:45Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "nNLax-ERceP0BXKyIRIfneNrrFs",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "_daTfgc4u3k"
+            },
+            "snippet": {
+                "publishedAt": "2021-07-14T14:52:03Z",
+                "channelId": "UCwVQIkAtyZzQSA-OY1rsGig",
+                "title": "Crypto Music for Coding, Programming, Studying — Hack Time! Chillstep Radio",
+                "description": "Anonymous and darknet inspired Chillstep and Future Garage Music Radio for cyber productivity, maximum hacking, coding, programming and studying.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_daTfgc4u3k/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_daTfgc4u3k/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_daTfgc4u3k/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Music Lab",
+                "liveBroadcastContent": "live",
+                "publishTime": "2021-07-14T14:52:03Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "oWB1LHoFTAQ8XZ6OYdJDGo56p-Q",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "1EAUUkFlBec"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-16T12:32:10Z",
+                "channelId": "UCtvsljLC4qHFdI4W9GmQPcA",
+                "title": "4K Video (Ultra HD) Beautiful Nature Scenery with Relaxing Music | Sleep, Study, Work, Meditation",
+                "description": "4K Video (Ultra HD) Beautiful Nature Scenery with Relaxing Music | Sleep, Study, Work, Meditation https://www.youtube.com/watch?v=k096OzNLkJI 4k, 4k video ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1EAUUkFlBec/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1EAUUkFlBec/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1EAUUkFlBec/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Nature Relaxation Music",
+                "liveBroadcastContent": "live",
+                "publishTime": "2021-08-16T12:32:10Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ykpeNXbc2u7f0PiZOSr4BacWeXo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "IazBJC6BEhQ"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-14T02:55:39Z",
+                "channelId": "UCwobzUc3z-0PrFpoRxNszXQ",
+                "title": "🔴 Sleep Music 24/7, Insomnia, Relaxing Music, Spa, Calm Music, Sleep Meditation, Study Music, Sleep",
+                "description": "Get the new Yellow Brick Cinema iOS app for a 7-day FREE trial: https://apple.co/30uHqHe Sleep Music 24/7, Insomnia, Relaxing Music, Spa, Calm Music, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/IazBJC6BEhQ/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/IazBJC6BEhQ/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/IazBJC6BEhQ/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Yellow Brick Cinema - Relaxing Music",
+                "liveBroadcastContent": "live",
+                "publishTime": "2021-08-14T02:55:39Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "S6I2KJmnVVqHoMmbvjJ6bI6r2kM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "0SuGHuQEIl8"
+            },
+            "snippet": {
+                "publishedAt": "2021-07-06T23:37:01Z",
+                "channelId": "UCdi8yQBdBfn1ECu3ayH_TnA",
+                "title": "Beautiful Relaxing Music, Peaceful Soothing Instrumental Music, &quot;Dreams of Austria&quot; by Tim Janis",
+                "description": "Beautiful Relaxing Music, Peaceful Soothing Instrumental Music, \"Dreams of Austria\" by Tim Janis. My instrumental music can help you find deep relaxation, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0SuGHuQEIl8/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0SuGHuQEIl8/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0SuGHuQEIl8/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Tim Janis",
+                "liveBroadcastContent": "live",
+                "publishTime": "2021-07-06T23:37:01Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "052HGk5eiGLXK9pavsT-UI0dXxQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "jCzUJf8KATs"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-15T17:48:49Z",
+                "channelId": "UCwobzUc3z-0PrFpoRxNszXQ",
+                "title": "🔴 Sleep Music, Calming Music, Relaxing Music, Sleep, Meditation Music, Study Music, Sleeping Music",
+                "description": "Get the new Yellow Brick Cinema iOS app for a 7-day FREE trial: https://apple.co/30uHqHe Sleep Music, Calming Music, Relaxing Music, Sleep, Meditation ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/jCzUJf8KATs/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/jCzUJf8KATs/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/jCzUJf8KATs/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Yellow Brick Cinema - Relaxing Music",
+                "liveBroadcastContent": "live",
+                "publishTime": "2021-08-15T17:48:49Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Vl1u5R90_Hr402Ab_X7uRXvXwHA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "DquKMopzJEY"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-11T10:40:52Z",
+                "channelId": "UCmDM6zuSTROOnZnjlt2RJGQ",
+                "title": "ChillYourMind 24/7 Radio | Chillout Music, Summer Music, Chill House, Deep House, Summer Mix 2021",
+                "description": "ChillYourMind 24/7 Radio | Chillout Music, Summer Music, Chill House, Deep House, Summer Mix 2021 Spotify: https://cym.link/spotify Apple Music: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DquKMopzJEY/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DquKMopzJEY/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DquKMopzJEY/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ChillYourMind",
+                "liveBroadcastContent": "live",
+                "publishTime": "2021-08-11T10:40:52Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "1851pqLjy9zInSj_Nv3EnOHStXg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "rkTiyYxLGVQ"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-12T18:05:25Z",
+                "channelId": "UCwobzUc3z-0PrFpoRxNszXQ",
+                "title": "🔴 Relaxing Music 24/7, Sleep Music, Stress Relief Music, Spa, Meditation, Yoga, Zen, Sleeping Music",
+                "description": "Get the new Yellow Brick Cinema iOS app for a 7-day FREE trial: https://apple.co/30uHqHe Relaxing Music 24/7, Sleep Music, Stress Relief Music, Spa, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rkTiyYxLGVQ/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rkTiyYxLGVQ/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rkTiyYxLGVQ/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Yellow Brick Cinema - Relaxing Music",
+                "liveBroadcastContent": "live",
+                "publishTime": "2021-08-12T18:05:25Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ONw1iaMb9PKySFwOqkfIbM4b9cY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Wg0BL0puhXw"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-11T11:37:27Z",
+                "channelId": "UCyKs4L4EULCfySbTybA9bAg",
+                "title": "Jazz &amp; Bossa Nova - Lounge Music 🍹🍹🍹",
+                "description": "Jazz & Bossa Nova - Covers Of Popular Songs 2021 - Playlist: 01 00:00 Fly Me To The Moon - The Cooltrane Quartet, Nenei 02 03:31 Every Breath You Take ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Wg0BL0puhXw/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Wg0BL0puhXw/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Wg0BL0puhXw/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Music Brokers",
+                "liveBroadcastContent": "live",
+                "publishTime": "2021-08-11T11:37:27Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "bxXAvDXZoK8lfNEJV1RPiJcf0sY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "6sNvxmnyKIw"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-16T11:09:12Z",
+                "channelId": "UCdhgjfj0hjDVCsxKZ6M3A0Q",
+                "title": "2 Hours Non Stop Worship Songs 2021 With Lyrics - Best 100 Christian Worship Songs  - Worship 2021",
+                "description": "2 Hours Non Stop Christian Songs 2021 With Lyrics - Best 100 Christian Worship Songs - Worship 2021 Playlist: 1.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6sNvxmnyKIw/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6sNvxmnyKIw/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6sNvxmnyKIw/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Worship Songs",
+                "liveBroadcastContent": "live",
+                "publishTime": "2021-08-16T11:09:12Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "xZuATFB1Sm-fRlGetemeoRmNbU0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Euer6G02YUk"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-02T23:23:12Z",
+                "channelId": "UCdi8yQBdBfn1ECu3ayH_TnA",
+                "title": "Beautiful Relaxing Music, Peaceful Soothing Instrumental Music, &quot;Dreams of France&quot; By Tim Janis",
+                "description": "Beautiful Relaxing Music, Peaceful Soothing Instrumental Music, \"Dreams of France\" By Tim Janis. My instrumental music can help you find deep relaxation, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Euer6G02YUk/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Euer6G02YUk/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Euer6G02YUk/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Tim Janis",
+                "liveBroadcastContent": "live",
+                "publishTime": "2021-08-02T23:23:12Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Mw5Ksm9xG94Vt51NzGG5IDcTdIo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "c8Qna53v1os"
+            },
+            "snippet": {
+                "publishedAt": "2021-06-21T02:16:13Z",
+                "channelId": "UCwuMGwU6kX_lvkrYoVQWBGw",
+                "title": "Tropical House Radio • 24/7 Live Radio | Best Relax House, Chillout, Study, Running, Happy Music",
+                "description": "Tropical House Radio is live streaming the best of Deep & Tropical House, Chill & Relax House Music, EDM, Dance & Pop as well as Music for Sleep, Focus, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/c8Qna53v1os/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/c8Qna53v1os/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/c8Qna53v1os/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Tropical House Radio",
+                "liveBroadcastContent": "live",
+                "publishTime": "2021-06-21T02:16:13Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "rCS0DDhTmX4P4MMSnGUdEolzl8o",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "0WjIMJvvSzg"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-12T02:00:47Z",
+                "channelId": "UCwobzUc3z-0PrFpoRxNszXQ",
+                "title": "🔴 Deep Sleep Music 24/7, Sleeping Music, Insomnia, Meditation Music, Zen, Yoga, Study Music, Sleep",
+                "description": "Get the new Yellow Brick Cinema iOS app for a 7-day FREE trial: https://apple.co/30uHqHe Deep Sleep Music 24/7, Sleeping Music, Insomnia, Meditation Music, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0WjIMJvvSzg/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0WjIMJvvSzg/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0WjIMJvvSzg/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Yellow Brick Cinema - Relaxing Music",
+                "liveBroadcastContent": "live",
+                "publishTime": "2021-08-12T02:00:47Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "gUyDhysbPCPURSx2LXggVHV-I-c",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "rw7bxTqkYYs"
+            },
+            "snippet": {
+                "publishedAt": "2021-07-16T11:03:23Z",
+                "channelId": "UCtvsljLC4qHFdI4W9GmQPcA",
+                "title": "FLYING OVER PARADISE (4K UHD) Amazing Beautiful Nature Scenery &amp; Relaxing Music - 4K Video Ultra HD",
+                "description": "FLYING OVER PARADISE 4K Video (Ultra HD) - Amazing Beautiful Nature Scenery & Relaxing Music for Stress Relief | Sleep, Study, Spa Paradise Island is a ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rw7bxTqkYYs/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rw7bxTqkYYs/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rw7bxTqkYYs/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Nature Relaxation Music",
+                "liveBroadcastContent": "live",
+                "publishTime": "2021-07-16T11:03:23Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "qg3wcnBVPuKK5B4cMO0gPy9GxPY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "tje2Uu8Irg0"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-16T12:53:06Z",
+                "channelId": "UC_BrWk74yF67_M0a9Kn9Pwg",
+                "title": "Soothing Stress Relief Music With Beautiful Nature 🍀 Stop Anxiety, Depression &amp; Bad Vibes",
+                "description": "Relaxing Music To Relief All Stress & Beautiful Nature ☘️ Positive Energy To Mind-Body & Soul Relaxing Music - Throw Stress Away - Calm Music, Sleep Music ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/tje2Uu8Irg0/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/tje2Uu8Irg0/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/tje2Uu8Irg0/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sweet Waves",
+                "liveBroadcastContent": "live",
+                "publishTime": "2021-08-16T12:53:06Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Otoa2s5tTvdP7B1AjR9mQxJTwLY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "iPG25RmV98g"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-15T12:00:49Z",
+                "channelId": "UCiBjOPqgx00o4SfVldEhJHQ",
+                "title": "LIVE MUSIC DJ BREAKBEAT NONSTOP 24 JAM FULL BASS B4",
+                "description": "B4 LIVE MUSIC DJ BREAKBEAT NONSTOP 24 JAM FULL BASS #breakbeat #livedj #djlive COPYRIGHT 2021 VIDEO GRAFIS \"BreakBeat.id\" ORIGINAL ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/iPG25RmV98g/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/iPG25RmV98g/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/iPG25RmV98g/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "BreakBeat",
+                "liveBroadcastContent": "live",
+                "publishTime": "2021-08-15T12:00:49Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "le3hh-2J2dTLk6S1kR8HmO3dGiI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "1qk4vdJruxY"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-16T12:56:20Z",
+                "channelId": "UCwobzUc3z-0PrFpoRxNszXQ",
+                "title": "🔴 Study Music 24/7, Focus, Meditation, Concentration Music, Relaxing Music, Calm Music, Yoga, Study",
+                "description": "Get the new Yellow Brick Cinema iOS app for a 7-day FREE trial: https://apple.co/30uHqHe Study Music 24/7, Focus, Meditation, Concentration Music, Relaxing ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1qk4vdJruxY/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1qk4vdJruxY/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1qk4vdJruxY/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Yellow Brick Cinema - Relaxing Music",
+                "liveBroadcastContent": "live",
+                "publishTime": "2021-08-16T12:56:20Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "d-TUnF12fH4_ErtGoDMB5m9uf0w",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "W3SUD4IW9rM"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-14T10:04:29Z",
+                "channelId": "UCJhjE7wbdYAae1G25m0tHAA",
+                "title": "WEEKEND JAZZ: Relaxing Jazz  - Cafe Music to Chill Out",
+                "description": "Please Subscribe! https://www.youtube.com/user/cafemusicbgmchannel The band produced by Cafe Music BGM channel ▽ JUTESETS Apple Music: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/W3SUD4IW9rM/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/W3SUD4IW9rM/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/W3SUD4IW9rM/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Cafe Music BGM channel",
+                "liveBroadcastContent": "live",
+                "publishTime": "2021-08-14T10:04:29Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "oepFbBL0xA927o_JhKYMTIUuZrw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "2SiWnwmDIPU"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-16T00:59:13Z",
+                "channelId": "UCNJFXYXkXt_P8bJUxb21MpA",
+                "title": "Fireplace Jazz ❤️ Mellow Smooth Jazz Saxophone for Chilling out with a Fireplace",
+                "description": "Fireplace Jazz • The perfect music for chilling in front of a fireplace with a glass of wine and someone you love. ❤️ ▻ Subscribe to Dr. SaxLove: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2SiWnwmDIPU/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2SiWnwmDIPU/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2SiWnwmDIPU/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Dr. SaxLove Music Channel",
+                "liveBroadcastContent": "live",
+                "publishTime": "2021-08-16T00:59:13Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "i27zKGTCyh691BFlaZe1rtJOgws",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "cW3n-7M0mNk"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-11T08:05:46Z",
+                "channelId": "UCwuMGwU6kX_lvkrYoVQWBGw",
+                "title": "Mega Hits 2021 🌱 The Best Of Vocal Deep House Music Mix 2021 🌱 Summer Music Mix 2021",
+                "description": "Mega Hits 2021 The Best Of Vocal Deep House Music Mix 2021 Summer Music Mix 2021 #SummerMusicMix #BestOfDeepHouse #HotSummer ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/cW3n-7M0mNk/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/cW3n-7M0mNk/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/cW3n-7M0mNk/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Tropical House Radio",
+                "liveBroadcastContent": "live",
+                "publishTime": "2021-08-11T08:05:46Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "A43H4jx5KXrpD3ZYRK4bHNsbxf4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "6Dasn877Kmk"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-16T06:10:56Z",
+                "channelId": "UCSSEXzYHBijpCPJdiZbS7mw",
+                "title": "Ibiza Summer Mix 2021 🍓 Best Of Tropical Deep House Music Chill Out Mix 2021 #3",
+                "description": "Ibiza Summer Mix 2021 Best Of Tropical Deep House Music Chill Out Mix 2021 #3 Ibiza Summer Mix 2021 Best Of Tropical Deep House Music Chill Out Mix ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6Dasn877Kmk/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6Dasn877Kmk/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6Dasn877Kmk/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "XDeep Music",
+                "liveBroadcastContent": "live",
+                "publishTime": "2021-08-16T06:10:56Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "E8CgF_Ni-a1edYk8xXXeRyf4-so",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ai4h-0Tz7Uw"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-11T00:01:16Z",
+                "channelId": "UCdi8yQBdBfn1ECu3ayH_TnA",
+                "title": "Beautiful Relaxing Hymns, Peaceful Instrumental Music, &quot;Highland Morning Hymns&quot; By Tim Janis",
+                "description": "Beautiful Relaxing Hymns, Peaceful Instrumental Music, \"Highland Morning Hymns\" By Tim Janis. Traditional Hymns like, Amazing Grace, Ave Maria, How Great ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ai4h-0Tz7Uw/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ai4h-0Tz7Uw/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ai4h-0Tz7Uw/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Tim Janis",
+                "liveBroadcastContent": "live",
+                "publishTime": "2021-08-11T00:01:16Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "vXN2jkpewligQw7WX5xUkRJAY2A",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "vFc3-lDDm2g"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-16T04:25:46Z",
+                "channelId": "UCvbKGLFg-bgjWvAglehxOFw",
+                "title": "Ibiza Summer Mix 2021 🍓 Best Of Tropical Deep House Music Chill Out Mix 2021 🍓 Chillout Lounge #11",
+                "description": "Ibiza Summer Mix 2021 Best Of Tropical Deep House Music Chill Out Mix 2021 Chillout Lounge #11 #BestOfVocalDeepHouse​ #RelaxingMusic​ ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vFc3-lDDm2g/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vFc3-lDDm2g/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vFc3-lDDm2g/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Summer Music Deep",
+                "liveBroadcastContent": "live",
+                "publishTime": "2021-08-16T04:25:46Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "HLKDo51WmX6jyqTJWzuq0hkIIYE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "vgZgg0fWVyc"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-16T08:51:44Z",
+                "channelId": "UCbsObMtz4YLeTC7cf10vZGQ",
+                "title": "New Songs 2021 ( Latest English Songs 2021 ) 🥦 Pop Music 2021 New  Song 🥦 English Song 2021",
+                "description": "New Songs 2021 ( Latest English Songs 2021 ) Pop Music 2021 New Song English Song 2021 Thanks for watching! Don't forget to SUBCRIBE, Like ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vgZgg0fWVyc/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vgZgg0fWVyc/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vgZgg0fWVyc/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Top Hits Music",
+                "liveBroadcastContent": "live",
+                "publishTime": "2021-08-16T08:51:44Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "66R0G1nTxXpn8EQtntA_sR--jcQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "lE-EVhOy3xc"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-13T17:06:40Z",
+                "channelId": "UCdi8yQBdBfn1ECu3ayH_TnA",
+                "title": "Beautiful Relaxing Music, Peaceful Soothing Instrumental Music, &quot;Hummingbird Flight&quot; By Tim Janis",
+                "description": "Beautiful Relaxing Music, Peaceful Soothing Instrumental Music, \"Hummingbird Flight\" By Tim Janis. My instrumental music can help you find deep relaxation, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lE-EVhOy3xc/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lE-EVhOy3xc/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lE-EVhOy3xc/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Tim Janis",
+                "liveBroadcastContent": "live",
+                "publishTime": "2021-08-13T17:06:40Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "DpCsD7_t7O68lDGRHtCNOLryNOw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "-V_CR4_l0ws"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-16T15:54:51Z",
+                "channelId": "UC7Pq3Ko42YpkCB_Q4E981jw",
+                "title": "Baby Songs &amp; Kids Rhymes | Children&#39;s Music  - Zoobees Cartoon",
+                "description": "Kids TV - The nursery rhymes channel for kindergarten aged children. These kids songs are great for learning the alphabet, numbers, shapes, colors and lots ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-V_CR4_l0ws/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-V_CR4_l0ws/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-V_CR4_l0ws/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Kids TV - Nursery Rhymes And Baby Songs",
+                "liveBroadcastContent": "live",
+                "publishTime": "2021-08-16T15:54:51Z"
+            }
+        }
+    ]
+}
